@@ -1,1 +1,1 @@
-"# stupid-car-drag-game" 
+# stupid-car-drag-game
