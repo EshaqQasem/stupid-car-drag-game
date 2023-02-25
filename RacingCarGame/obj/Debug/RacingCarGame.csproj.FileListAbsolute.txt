@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\bin\Debug\RacingCarGame.exe.config
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\bin\Debug\RacingCarGame.exe
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\bin\Debug\RacingCarGame.pdb
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\obj\Debug\RacingCarGame.Form1.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\obj\Debug\RacingCarGame.Properties.Resources.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\obj\Debug\RacingCarGame.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\obj\Debug\RacingCarGame.exe
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\obj\Debug\RacingCarGame.pdb
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\obj\Debug\RacingCarGame.Form2.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\RacingCarGame\RacingCarGame\obj\Debug\RacingCarGame.csprojResolveAssemblyReference.cache
